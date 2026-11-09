@@ -1,0 +1,5 @@
+streamlit
+psutil
+speedtest-cli
+ping3
+google-genai
